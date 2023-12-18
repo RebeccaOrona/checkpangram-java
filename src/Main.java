@@ -2,7 +2,6 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Main {
-    Certainly!Here's a comment with documentation for the provided code:
 
     /**
      * Checks if a given string is a pangram, i.e., it contains every letter of the alphabet at least once.
